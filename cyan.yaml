@@ -1,0 +1,10 @@
+username: kirinnee
+name: cookiecutter-test
+description: test cookie cutter
+project: https://github.com/kirinnee/cyanprint-cookiecutter-adapter-test
+source: https://github.com/kirinnee/cyanprint-cookiecutter-adapter-test
+email: kirinnee97@gmail.com
+tags: []
+readme: cyan/README.MD
+processors: ["cyan/cookiecutter"]
+plugins: []
